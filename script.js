@@ -12,7 +12,7 @@ const icon = document.getElementById("icon");
 
 // TinyURL API Endpoint
 const API_URL = "https://api.tinyurl.com/create";
-const API_TOKEN = "NlKajQoqp0ehuOnAQlXP0iPu91JIlvHlhMFy6w6KfHItKyOWR0oab8h02eeO";
+const API_TOKEN = "NlKajQoqp0ehuOnAQlXP0iPu91JIlvHlhviMFy6w6haaKfHItKnyOWR0oab8h02eeO";
 
 // Event listener for the 'Short it!' button
 submitBtn.addEventListener("click", async () => {
